@@ -1,6 +1,8 @@
 # How to start this project on local
 - git clone https://github.com/nguyenluan2001/CS105.M21.git
+- cd CS105.M21
 - npm install
+- npm run dev
 # Technology
 - ReactJS
 - ThreeJS
